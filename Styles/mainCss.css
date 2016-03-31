@@ -1,0 +1,35 @@
+body {
+    background-image: url(../images/Nature-Spring.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1 {
+	color:#FFFFFF;
+	font-weight: lighter;
+	border-radius: 7px;
+	 
+} 
+
+span { 
+		background-color:#FFCCCC;
+		font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, serif ;
+        text-align: center;
+        text-decoration-style: wavy;
+
+}
+
+p {
+	font-family: Helvetica, Geneva, Arial,
+    SunSans-Regular, serif ;
+	color: white;
+	font-weight: 900;
+	background-size: contain;
+	text-align: center;
+	
+
+
+}
+
